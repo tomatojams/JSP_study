@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webapps:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/webapps_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="webapps/web/Web" />
+      <element id="javaee-facet-resources" facet="webapps/web/Web2" />
+      <element id="javaee-facet-resources" facet="webapps/web/Web3" />
+      <element id="javaee-facet-resources" facet="webapps/web/Web4" />
+      <element id="javaee-facet-resources" facet="webapps/web/Web5" />
+      <element id="javaee-facet-resources" facet="webapps/web/Web6" />
+      <element id="javaee-facet-resources" facet="webapps/web/Web7" />
+    </root>
+  </artifact>
+</component>
